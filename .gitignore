@@ -15,6 +15,6 @@ build
 .pytest_cache
 .DS_Store
 *.so
+files
 *.o
-
-
+.ipynb_checkpoints
